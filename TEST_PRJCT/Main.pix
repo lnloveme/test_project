@@ -520,7 +520,7 @@
                     <PropertyName>IncognitoMode</PropertyName>
                     <_dataType>Value</_dataType>
                     <_expression i:nil="true" />
-                    <_value xmlns:d11p1="http://www.w3.org/2001/XMLSchema" i:type="d11p1:boolean">true</_value>
+                    <_value xmlns:d11p1="http://www.w3.org/2001/XMLSchema" i:type="d11p1:boolean">false</_value>
                     <_xpathSettings xmlns:d11p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
                   </PropertyValue>
                   <PropertyValue z:Id="i63">
